@@ -1,0 +1,7 @@
+uploads/
+error_log
+admin/error_log
+*.log
+*.local
+.DS_Store
+Thumbs.db
